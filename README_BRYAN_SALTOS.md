@@ -15,3 +15,10 @@ En general, lo que se ve en este deber es:
 El notebook no es un proyecto grande, pero sí sirve para afianzar los conceptos básicos de scraping. También deja la enseñanza de que no siempre el error está en el código de Python; a veces el error está en cómo interpretamos el HTML. En este caso, una sola palabra mal puesta (`sidemenu` en lugar de `dropdown-item`) hacía que el ejercicio no funcionara.
 
 En conclusión, este trabajo fue útil para practicar el scraping desde cero, entender mejor cómo funciona `BeautifulSoup` y también para desarrollar la paciencia de revisar bien los selectores cuando algo no sale. Es un buen primer paso para proyectos más grandes donde se quiera recopilar datos de páginas web de manera automática.
+
+
+El error en el HTML en cuestión:
+
+
+![1 Error en el HTML](https://raw.githubusercontent.com/Bryan810/Python-Web-Scraping-My-Fork/refs/heads/BRYAN_SALTOS_BRANCH/images/html%20error.png)
+
